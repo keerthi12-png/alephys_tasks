@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "salary":10000,
+        "Travel":700,
+        "rent":5000,
+        "Food":750
+    },
+    {
+        "id":2,
+        "salary":10000,
+        "Travel":500,
+        "rent":0,
+        "Food":5000
+    },
+    {
+        "id":3,
+        "salary":50000,
+        "Travel":800,
+        "rent":5000,
+        "Food":200
+    },
+    {
+        "id":4,
+        "salary":6000,
+        "Travel":500,
+        "rent":400,
+        "Food":200
+    },
+    {
+        "id":5,
+        "salary":3000,
+        "Travel":800,
+        "rent":400,
+        "Food":200
+    }
+    
+]
